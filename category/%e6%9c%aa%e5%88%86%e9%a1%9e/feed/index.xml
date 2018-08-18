@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>まんまる工房</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<title>未分類 &#8211; まんまる工房</title>
+	<atom:link href="./../../%E6%9C%AA%E5%88%86%E9%A1%9E/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>檜原村で木工を行っています。</description>
 	<lastBuildDate>Sat, 18 Aug 2018 08:42:19 +0000</lastBuildDate>
 	<language>ja</language>
@@ -19,12 +19,12 @@
 	<generator>https://wordpress.org/?v=4.8.7</generator>
 	<item>
 		<title>まんまる工房　いちおし！　ネームキーホルダー</title>
-		<link>./../2018/08/18/188/index.html</link>
+		<link>./../../../2018/08/18/188/index.html</link>
 		<pubDate>Sat, 18 Aug 2018 08:36:14 +0000</pubDate>
 		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
 				<category><![CDATA[未分類]]></category>
 
-		<guid isPermaLink="false">./../index.html?p=188</guid>
+		<guid isPermaLink="false">./../../../index.html?p=188</guid>
 		<description><![CDATA[新しくホームページができました。 ぼちぼちぶりを ぼちぼちおしらせしていきたいです。]]></description>
 				<content:encoded><![CDATA[<p>新しくホームページができました。</p>
 <p>ぼちぼちぶりを</p>

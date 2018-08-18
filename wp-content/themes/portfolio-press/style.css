@@ -588,6 +588,28 @@ a:active {
 	font-family: "Rounded Mplus 1c";
 }
 
+@media all and (-ms-high-contrast:none){
+#logo #site-title a {
+    color: rgba(51, 16, 0, 0.7);
+    font-size: 44px;
+    text-decoration: none;
+    mix-blend-mode: color-burn;
+    font-family: "Rounded Mplus 1c";
+    text-shadow: none;
+  }
+}
+
+@media all and (-ms-high-contrast:none){
+  *::-ms-backdrop,hoge#logo #site-title a {
+    color: rgba(51, 16, 0, 0.7);
+    font-size: 44px;
+    text-decoration: none;
+    mix-blend-mode: color-burn;
+    font-family: "Rounded Mplus 1c";
+    text-shadow: none;
+  }
+}
+
 #logo #site-description {
 	color: rgba(78, 78, 78, 0.7);
 	font-size: 16px;
@@ -595,6 +617,31 @@ a:active {
 	mix-blend-mode: color-burn;
 	text-shadow: 0.1px 0.1px 0 rgba(104, 104, 104, 0.62) , -0.1px -0.1px 0.1px rgba(0,0,0,0.67), 0 0 5px rgba(140, 140, 140, 0.7), 0 0 3.75px rgba(140, 140, 140, 0.7);
 	font-family: "Rounded Mplus 1c";
+}
+
+@media all and (-ms-high-contrast:none){
+#logo #site-description {
+    color: rgba(15, 5, 0, 0.7);
+    font-size: 18px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: "Rounded Mplus 1c";
+    text-shadow: none;
+    font-weight: bold;
+}
+
+}
+
+@media all and (-ms-high-contrast:none){
+  *::-ms-backdrop,hoge#logo #site-description {
+   color: rgba(15, 5, 0, 0.7);
+    font-size: 18px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: "Rounded Mplus 1c";
+    text-shadow: none;
+    font-weight: bold;
+  }
 }
 
 /* Primary Navigation

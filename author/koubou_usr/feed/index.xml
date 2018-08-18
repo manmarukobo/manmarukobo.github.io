@@ -12,12 +12,25 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Sat, 18 Aug 2018 08:42:19 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Aug 2018 21:20:42 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.7</generator>
 	<item>
+		<title>工房のウィンドウ</title>
+		<link>./../../../2018/08/19/%e5%b7%a5%e6%88%bf%e3%81%ae%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%89%e3%82%a6/index.html</link>
+		<pubDate>Sat, 18 Aug 2018 21:06:27 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=208</guid>
+		<description><![CDATA[看板も作品です。 こんなのも作ります。]]></description>
+				<content:encoded><![CDATA[<p><span style="font-size: 16pt;"><strong><span style="color: #000000; font-family: 'arial black', sans-serif;">看板も作品です。</span></strong></span></p>
+<p><span style="font-size: 16pt;"><strong><span style="color: #000000; font-family: 'arial black', sans-serif;">こんなのも作ります。</span></strong></span></p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>まんまる工房　いちおし！　ネームキーホルダー</title>
 		<link>./../../../2018/08/18/188/index.html</link>
 		<pubDate>Sat, 18 Aug 2018 08:36:14 +0000</pubDate>

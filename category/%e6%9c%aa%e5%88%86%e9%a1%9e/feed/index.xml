@@ -12,12 +12,29 @@
 	<atom:link href="./../../%E6%9C%AA%E5%88%86%E9%A1%9E/feed/index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Thu, 23 Aug 2018 12:13:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Aug 2018 21:43:34 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.7</generator>
 	<item>
+		<title>パズル</title>
+		<link>./../../../2018/08/25/pazuru/index.html</link>
+		<pubDate>Fri, 24 Aug 2018 21:43:34 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=279</guid>
+		<description><![CDATA[スティッチマルシェに出店したときの一枚です。 作った動物パズルで 小さなお客さんたちが遊んでくれました。 大き [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">スティッチマルシェに出店したときの一枚です。</span></p>
+<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">作った動物パズルで</span></p>
+<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">小さなお客さんたちが遊んでくれました。</span></p>
+<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">大きさ、ピースの数などいろいろで、</span></p>
+<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">子供たちの好きなもの、はめ方も</span></p>
+<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">いろいろでした。</span></p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>ポスト？</title>
 		<link>./../../../2018/08/23/post/index.html</link>
 		<pubDate>Thu, 23 Aug 2018 12:13:46 +0000</pubDate>

@@ -12,12 +12,30 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Sun, 26 Aug 2018 10:48:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Aug 2018 14:09:00 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.7</generator>
 	<item>
+		<title>みょうがの花</title>
+		<link>./../../../2018/08/30/myouga/index.html</link>
+		<pubDate>Thu, 30 Aug 2018 14:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=297</guid>
+		<description><![CDATA[少し涼しくなって, 草ぼうぼうの畑を手入れしたら 見えてきました。 みょうがは 花を咲かせたらいけないと聞きま [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>少し涼しくなって,</p>
+<p>草ぼうぼうの畑を手入れしたら</p>
+<p>見えてきました。</p>
+<p>みょうがは</p>
+<p>花を咲かせたらいけないと聞きましたが</p>
+<p>花もかわいい。</p>
+<p>そして　おいしい…（（笑））</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>白菜の芽</title>
 		<link>./../../../2018/08/26/hakusainome/index.html</link>
 		<pubDate>Sun, 26 Aug 2018 10:48:26 +0000</pubDate>

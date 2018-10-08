@@ -12,12 +12,30 @@
 	<atom:link href="./../../%E6%9C%AA%E5%88%86%E9%A1%9E/feed/index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Sun, 16 Sep 2018 09:36:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Oct 2018 01:08:02 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.7</generator>
 	<item>
+		<title>花車</title>
+		<link>./../../../2018/10/08/hanaguruma/index.html</link>
+		<pubDate>Mon, 08 Oct 2018 01:08:02 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=306</guid>
+		<description><![CDATA[嬉しい日をきっかけに 新しい作品ができました。 庭の花を切って生けました。 「いいかんじ」 と思っています。  [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>嬉しい日をきっかけに</p>
+<p>新しい作品ができました。</p>
+<p>庭の花を切って生けました。</p>
+<p>「いいかんじ」</p>
+<p>と思っています。</p>
+<p>まだ、色もついていませんが。</p>
+<p>これからです。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>ネームキーホルダーご注文</title>
 		<link>./../../../2018/09/16/nemukihoruda/index.html</link>
 		<pubDate>Sun, 16 Sep 2018 09:36:44 +0000</pubDate>
@@ -170,20 +188,6 @@
 		<description><![CDATA[看板も作品です。 表札、ルームプレートもつくります！]]></description>
 				<content:encoded><![CDATA[<p>看板も作品です。</p>
 <p>表札、ルームプレートもつくります！</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>まんまる工房　いちおし！　ネームキーホルダー</title>
-		<link>./../../../2018/08/18/188/index.html</link>
-		<pubDate>Sat, 18 Aug 2018 08:36:14 +0000</pubDate>
-		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
-				<category><![CDATA[未分類]]></category>
-
-		<guid isPermaLink="false">./../../../index.html?p=188</guid>
-		<description><![CDATA[新しくホームページができました。 ぼちぼちぶりを ぼちぼちおしらせしていきたいです。]]></description>
-				<content:encoded><![CDATA[<p>新しくホームページができました。</p>
-<p>ぼちぼちぶりを</p>
-<p>ぼちぼちおしらせしていきたいです。</p>
 ]]></content:encoded>
 			</item>
 	</channel>

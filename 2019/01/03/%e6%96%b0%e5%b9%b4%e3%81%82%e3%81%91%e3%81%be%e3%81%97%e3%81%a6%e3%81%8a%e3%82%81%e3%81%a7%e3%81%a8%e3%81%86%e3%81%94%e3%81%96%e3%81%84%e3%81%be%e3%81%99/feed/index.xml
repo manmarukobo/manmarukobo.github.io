@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>パズル へのコメント</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<title>新年あけましておめでとうございます へのコメント</title>
+	<atom:link href="./../../%E6%96%B0%E5%B9%B4%E3%81%82%E3%81%91%E3%81%BE%E3%81%97%E3%81%A6%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99/feed/index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Thu, 03 Jan 2019 11:09:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Jan 2019 11:09:42 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.8</generator>

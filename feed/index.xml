@@ -12,12 +12,25 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Sun, 14 Apr 2019 19:17:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Oct 2019 13:50:30 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.9</generator>
 	<item>
+		<title>お久しぶりです　スティッチマルシェに出店しました</title>
+		<link>./../2019/10/14/sutelitti-marushe/index.html</link>
+		<pubDate>Mon, 14 Oct 2019 13:50:30 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=326</guid>
+		<description><![CDATA[9月28日久しぶりにスティッチマルシェに出店しました。新製品は檜原の木をそのまんま使ったジャンボパズル。残念な [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>9月28日久しぶりにスティッチマルシェに出店しました。新製品は檜原の木をそのまんま使ったジャンボパズル。残念ながら売れませんでしたが…（笑）</p>
+<p>そして今日10月14日台風19号の去った檜原へ。いつも見慣れた川は様変わり、カフェオレ色の濁流でした…</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>檜原　春！</title>
 		<link>./../2019/04/15/hinoharaharu/index.html</link>
 		<pubDate>Sun, 14 Apr 2019 19:17:00 +0000</pubDate>
@@ -172,25 +185,6 @@
 <p>後から入ってくれたと聞いたときは</p>
 <p>とてもうれしかったです。</p>
 <p>そろそろメンテにうかがわなきゃと話しています。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>ショーケース</title>
-		<link>./../2018/08/21/shokesu/index.html</link>
-		<pubDate>Tue, 21 Aug 2018 13:56:08 +0000</pubDate>
-		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
-				<category><![CDATA[未分類]]></category>
-
-		<guid isPermaLink="false">./../index.html?p=254</guid>
-		<description><![CDATA[ご注文で作っている途中です。 大切なものを 大切に そして すてきに飾るために 前面にアクリルボードを入れるよ [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>ご注文で作っている途中です。</p>
-<p>大切なものを</p>
-<p>大切に</p>
-<p>そして</p>
-<p>すてきに飾るために</p>
-<p>前面にアクリルボードを入れるようにします。</p>
-<p>（右側の小さいものは以前に作ったものです。</p>
-<p>リピート注文していただきました。）</p>
 ]]></content:encoded>
 			</item>
 	</channel>

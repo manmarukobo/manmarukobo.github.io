@@ -10,9 +10,9 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Mon, 14 Oct 2019 13:54:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Oct 2019 20:55:33 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.9</generator>
+	<generator>https://wordpress.org/?v=4.8.11</generator>
 </channel>
 </rss>

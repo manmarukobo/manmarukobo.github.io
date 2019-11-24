@@ -12,12 +12,24 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Mon, 28 Oct 2019 20:50:56 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Nov 2019 10:21:01 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.11</generator>
 	<item>
+		<title>Open の看板</title>
+		<link>./../2019/11/24/opennokanban/index.html</link>
+		<pubDate>Sun, 24 Nov 2019 10:21:01 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=334</guid>
+		<description><![CDATA[１１月２３日玉川上水沿いで開かれるスティッチマルシェの今年最後の回に参加しました。あいにくの雨と寒さで、新作の [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>１１月２３日玉川上水沿いで開かれるスティッチマルシェの今年最後の回に参加しました。あいにくの雨と寒さで、新作の干支パズル「子」の初売りはなりませんでしたが、前回注文されたカフェスティッチさんのOpenの看板をお届けできました。檜原の木をそのまま生かしてつくったものが、お店の雰囲気にぴったりで、マグネットでバチっと早速つけていただきました。気に入ってもらってうれしかったです。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>つるかご</title>
 		<link>./../2019/10/29/turukago/index.html</link>
 		<pubDate>Mon, 28 Oct 2019 20:50:56 +0000</pubDate>
@@ -166,23 +178,6 @@
 <p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">大きさ、ピースの数などいろいろで、</span></p>
 <p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">子供たちの好きなもの、はめ方も</span></p>
 <p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">いろいろでした。</span></p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>ポスト？</title>
-		<link>./../2018/08/23/post/index.html</link>
-		<pubDate>Thu, 23 Aug 2018 12:13:46 +0000</pubDate>
-		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
-				<category><![CDATA[未分類]]></category>
-
-		<guid isPermaLink="false">./../index.html?p=276</guid>
-		<description><![CDATA[これも数年前 工房用のポストを作りました。 小鳥が来て、巣を作り始めました。 「どうぞ！」というつもりで 入り [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><span style="font-family: 'arial black', sans-serif; font-size: 16pt;">これも数年前</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 16pt;">工房用のポストを作りました。</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 16pt;">小鳥が来て、巣を作り始めました。</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 16pt;">「どうぞ！」というつもりで</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 16pt;">入り口を小鳥仕様にしたのですが…。</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 16pt;">今は…ポスト仕様です。</span></p>
 ]]></content:encoded>
 			</item>
 	</channel>

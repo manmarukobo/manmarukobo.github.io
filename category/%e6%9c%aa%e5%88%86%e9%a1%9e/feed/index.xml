@@ -12,12 +12,29 @@
 	<atom:link href="./../../%E6%9C%AA%E5%88%86%E9%A1%9E/feed/index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Sun, 24 Nov 2019 10:41:58 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Jan 2020 09:27:01 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.11</generator>
+	<generator>https://wordpress.org/?v=4.8.12</generator>
 	<item>
+		<title>2020 新年あけましておめでとうございます</title>
+		<link>./../../../2020/01/05/nezumietopazuru/index.html</link>
+		<pubDate>Sun, 05 Jan 2020 09:27:01 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=339</guid>
+		<description><![CDATA[恒例の干支パズル　子年版です いつものものの他に、昨年から取り入れている材料の木をそのままの形で使ったものも作 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>恒例の干支パズル　子年版です</p>
+<p>いつものものの他に、昨年から取り入れている材料の木をそのままの形で使ったものも作ってみました。</p>
+<p>いかがでしょう。</p>
+<p>今年も楽しみながら、あれこれものづくりにチャレンジしていきます。</p>
+<p>よい年になりますように。</p>
+<p>今年もよろしくお願いします。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Open の看板</title>
 		<link>./../../../2019/11/24/opennokanban/index.html</link>
 		<pubDate>Sun, 24 Nov 2019 10:21:01 +0000</pubDate>
@@ -161,23 +178,6 @@
 <p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;">キムチづくりに挑戦する日を</span></p>
 <p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;">夢見ています。</span></p>
 <p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;">これは工房の仕事ではありませんが…</span></p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>パズル</title>
-		<link>./../../../2018/08/25/pazuru/index.html</link>
-		<pubDate>Fri, 24 Aug 2018 21:43:34 +0000</pubDate>
-		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
-				<category><![CDATA[未分類]]></category>
-
-		<guid isPermaLink="false">./../../../index.html?p=279</guid>
-		<description><![CDATA[スティッチマルシェに出店したときの一枚です。 作った動物パズルで 小さなお客さんたちが遊んでくれました。 大き [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">スティッチマルシェに出店したときの一枚です。</span></p>
-<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">作った動物パズルで</span></p>
-<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">小さなお客さんたちが遊んでくれました。</span></p>
-<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">大きさ、ピースの数などいろいろで、</span></p>
-<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">子供たちの好きなもの、はめ方も</span></p>
-<p><span style="font-size: 16pt; font-family: 'arial black', sans-serif;">いろいろでした。</span></p>
 ]]></content:encoded>
 			</item>
 	</channel>

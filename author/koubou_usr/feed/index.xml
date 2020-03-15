@@ -12,12 +12,35 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Sun, 05 Jan 2020 09:27:01 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Mar 2020 03:23:05 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.12</generator>
 	<item>
+		<title>いつものように</title>
+		<link>./../../../2020/03/15/itumonoyouni/index.html</link>
+		<pubDate>Sun, 15 Mar 2020 03:21:17 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=343</guid>
+		<description><![CDATA[日本中で いや世界中で 心配をかかえる春で…いろいろ気持ちが動きますが…。 檜原は いつものように ふきのとう [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>日本中で</p>
+<p>いや世界中で</p>
+<p>心配をかかえる春で…いろいろ気持ちが動きますが…。</p>
+<p>檜原は</p>
+<p>いつものように</p>
+<p>ふきのとうが顔を出し</p>
+<p>クロッカスが咲き始め</p>
+<p>梅が香って</p>
+<p>桜のつぼみがふくらんでいます。</p>
+<p>注文いただいた鳥の餌台ができました。</p>
+<p>鳥たちが雛を育てる姿も</p>
+<p>いつもどおりでありますように。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>2020 新年あけましておめでとうございます</title>
 		<link>./../../../2020/01/05/nezumietopazuru/index.html</link>
 		<pubDate>Sun, 05 Jan 2020 09:27:01 +0000</pubDate>
@@ -158,26 +181,6 @@
 <p>花を咲かせたらいけないと聞きましたが</p>
 <p>花もかわいい。</p>
 <p>そして　おいしい…（（笑））</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>白菜の芽</title>
-		<link>./../../../2018/08/26/hakusainome/index.html</link>
-		<pubDate>Sun, 26 Aug 2018 10:48:26 +0000</pubDate>
-		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
-				<category><![CDATA[未分類]]></category>
-
-		<guid isPermaLink="false">./../../../index.html?p=292</guid>
-		<description><![CDATA[畑の師匠に言われた通り 8月15日すぎて 白菜の種をまきました。 その種が いっせいに芽を出しました。 白菜が [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;">畑の師匠に言われた通り</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;"><span style="font-family: tahoma, arial, helvetica, sans-serif;">8</span>月<span style="font-family: tahoma, arial, helvetica, sans-serif;">15</span>日すぎて</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;">白菜の種をまきました。</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;">その種が</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;">いっせいに芽を出しました。</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;">白菜がたくさんとれて</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;">キムチづくりに挑戦する日を</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;">夢見ています。</span></p>
-<p><span style="font-family: 'arial black', sans-serif; font-size: 14pt;">これは工房の仕事ではありませんが…</span></p>
 ]]></content:encoded>
 			</item>
 	</channel>

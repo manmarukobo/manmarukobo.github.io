@@ -12,12 +12,27 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Sun, 15 Mar 2020 03:23:05 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jan 2021 14:16:38 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.12</generator>
+	<generator>https://wordpress.org/?v=4.8.15</generator>
 	<item>
+		<title>2021年　新しい年　ありがとうございます</title>
+		<link>./../2021/01/03/usipazuru/index.html</link>
+		<pubDate>Sun, 03 Jan 2021 14:16:38 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=351</guid>
+		<description><![CDATA[思いがけない長さのトンネルの中で、新しい年がやってきました。 丑の干支パズルは、檜原の木で、昨年から始めた様々 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>思いがけない長さのトンネルの中で、新しい年がやってきました。</p>
+<p>丑の干支パズルは、檜原の木で、昨年から始めた様々な形。</p>
+<p>牛の歩みでも、必ず出口まで進める。牛の歩みだから、見える景色がある。･･･</p>
+<p>新しい年、きっと　いいことありますよ･･･</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>いつものように</title>
 		<link>./../2020/03/15/itumonoyouni/index.html</link>
 		<pubDate>Sun, 15 Mar 2020 03:21:17 +0000</pubDate>
@@ -163,24 +178,6 @@
 <p>刃物を研ぐところから</p>
 <p>始まります。</p>
 <p>ゆっくり　じっくり・・・</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>みょうがの花</title>
-		<link>./../2018/08/30/myouga/index.html</link>
-		<pubDate>Thu, 30 Aug 2018 14:09:00 +0000</pubDate>
-		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
-				<category><![CDATA[未分類]]></category>
-
-		<guid isPermaLink="false">./../index.html?p=297</guid>
-		<description><![CDATA[少し涼しくなって, 草ぼうぼうの畑を手入れしたら 見えてきました。 みょうがは 花を咲かせたらいけないと聞きま [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>少し涼しくなって,</p>
-<p>草ぼうぼうの畑を手入れしたら</p>
-<p>見えてきました。</p>
-<p>みょうがは</p>
-<p>花を咲かせたらいけないと聞きましたが</p>
-<p>花もかわいい。</p>
-<p>そして　おいしい…（（笑））</p>
 ]]></content:encoded>
 			</item>
 	</channel>

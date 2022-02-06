@@ -12,12 +12,33 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Sun, 03 Jan 2021 14:16:38 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Feb 2022 23:41:06 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.15</generator>
+	<generator>https://wordpress.org/?v=4.8.18</generator>
 	<item>
+		<title>2022 寅年　あけまして　おめでとうございます</title>
+		<link>./../../../2022/01/30/2022toradosi/index.html</link>
+		<pubDate>Sun, 30 Jan 2022 06:45:14 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=355</guid>
+		<description><![CDATA[更新も　新年の　ごあいさつも　すごく　おくれてしまいました。 色を付けない　干支パズルは、ねこ？っという感じも [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>更新も　新年の　ごあいさつも　すごく　おくれてしまいました。</p>
+<p>色を付けない　干支パズルは、ねこ？っという感じもありますが、</p>
+<p>木目の縞を　虎の縞に見立ててもらえたらと思います。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>コロナがなかなか落ち着かないので、制約があり残念ですが、</p>
+<p>11月にオープンした　木のおもちゃ美術館、とてもすてきなところです。</p>
+<p>ご近所にいられて幸せです。</p>
+<p>&nbsp;</p>
+<p>よい一年になりますように</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>2021年　新しい年　ありがとうございます</title>
 		<link>./../../../2021/01/03/usipazuru/index.html</link>
 		<pubDate>Sun, 03 Jan 2021 14:16:38 +0000</pubDate>
@@ -159,25 +180,6 @@
 <p>と思っています。</p>
 <p>まだ、色もついていませんが。</p>
 <p>これからです。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>ネームキーホルダーご注文</title>
-		<link>./../../../2018/09/16/nemukihoruda/index.html</link>
-		<pubDate>Sun, 16 Sep 2018 09:36:44 +0000</pubDate>
-		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
-				<category><![CDATA[未分類]]></category>
-
-		<guid isPermaLink="false">./../../../index.html?p=302</guid>
-		<description><![CDATA[森の学校にいらした方から 御注文いただきました。 作成は デザインづくり そして 刃物を研ぐところから 始まり [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>森の学校にいらした方から</p>
-<p>御注文いただきました。</p>
-<p>作成は</p>
-<p>デザインづくり</p>
-<p>そして</p>
-<p>刃物を研ぐところから</p>
-<p>始まります。</p>
-<p>ゆっくり　じっくり・・・</p>
 ]]></content:encoded>
 			</item>
 	</channel>

@@ -12,12 +12,24 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Sat, 10 Sep 2022 03:41:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Sep 2023 08:08:32 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.20</generator>
+	<generator>https://wordpress.org/?v=4.8.22</generator>
 	<item>
+		<title>久しぶりの更新</title>
+		<link>./../2023/09/18/hiasaiburinokousinn/index.html</link>
+		<pubDate>Mon, 18 Sep 2023 08:08:32 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=366</guid>
+		<description><![CDATA[ご無沙汰しています。ご多分に漏れず、年々暑くなるような気がしてる檜原村ですが、ススキの穂、ノブドウのふしぎ色、 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>ご無沙汰しています。ご多分に漏れず、年々暑くなるような気がしてる檜原村ですが、ススキの穂、ノブドウのふしぎ色、夜の虫の合唱が、秋を知らせ始めました。干支のうさぎというより、月のうさぎが輝く季節になってしまいましたが、今年のうさぎ　こんな感じです。若い友人の力を借りて、更新できたことが幸せです。「もう少しだけ頻繁に更新できるようになる！」が目下の目標です。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>2022 寅年　あけまして　おめでとうございます</title>
 		<link>./../2022/01/30/2022toradosi/index.html</link>
 		<pubDate>Sun, 30 Jan 2022 06:45:14 +0000</pubDate>
@@ -159,24 +171,6 @@
 <p>幸せを運んで　まっしぐら！</p>
 <p>良い年になりますように。</p>
 <p>今年もよろしくお願いします。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>花車</title>
-		<link>./../2018/10/08/hanaguruma/index.html</link>
-		<pubDate>Mon, 08 Oct 2018 01:08:02 +0000</pubDate>
-		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
-				<category><![CDATA[未分類]]></category>
-
-		<guid isPermaLink="false">./../index.html?p=306</guid>
-		<description><![CDATA[嬉しい日をきっかけに 新しい作品ができました。 庭の花を切って生けました。 「いいかんじ」 と思っています。  [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>嬉しい日をきっかけに</p>
-<p>新しい作品ができました。</p>
-<p>庭の花を切って生けました。</p>
-<p>「いいかんじ」</p>
-<p>と思っています。</p>
-<p>まだ、色もついていませんが。</p>
-<p>これからです。</p>
 ]]></content:encoded>
 			</item>
 	</channel>

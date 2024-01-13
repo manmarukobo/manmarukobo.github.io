@@ -12,12 +12,29 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Wed, 20 Sep 2023 12:52:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Jan 2024 14:12:59 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.22</generator>
+	<generator>https://wordpress.org/?v=4.8.23</generator>
 	<item>
+		<title>2024年　辰年　登れ龍</title>
+		<link>./../2024/01/13/202401-tatudosi-noboreryuu/index.html</link>
+		<pubDate>Sat, 13 Jan 2024 14:12:59 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=373</guid>
+		<description><![CDATA[わが家はいつもと変わらない年越しだったので、元旦のテレビで、大変なことを知らされました。 みんなの　元気薬にな [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>わが家はいつもと変わらない年越しだったので、元旦のテレビで、大変なことを知らされました。</p>
+<p>みんなの　元気薬になるように、一日一日　小さないいことが重なっていきますように。</p>
+<p>&nbsp;</p>
+<p>今年の干支パズルはこちらです。バランスが可笑しい、鏡餅の上のゆずは、檜原産です。</p>
+<p>まんまる工房広報部として、今年こそもう少し頻繁に更新するように、できたらインスタグラムにも挑戦できるようにと思っています(笑)。</p>
+<p>今年もどうぞよろしくお願いします。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>久しぶりの更新</title>
 		<link>./../2023/09/18/hiasaiburinokousinn/index.html</link>
 		<pubDate>Mon, 18 Sep 2023 08:08:32 +0000</pubDate>
@@ -153,24 +170,6 @@
 		<description><![CDATA[ふくらんだ桜のつぼみに、雪が降るという珍しい春の景色が見られました。その後の、陽気で桜も、すみれも、次々花開い [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>ふくらんだ桜のつぼみに、雪が降るという珍しい春の景色が見られました。その後の、陽気で桜も、すみれも、次々花開いています。</p>
 <p>まんまる工房はこの春久しぶりにスティッチまるしぇに出店します。畑仕事と作品づくりに燃える日々です。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>新年あけましておめでとうございます</title>
-		<link>./../2019/01/03/sinnnennakemasiteoedetou/index.html</link>
-		<pubDate>Thu, 03 Jan 2019 11:50:24 +0000</pubDate>
-		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
-				<category><![CDATA[未分類]]></category>
-
-		<guid isPermaLink="false">./../index.html?p=317</guid>
-		<description><![CDATA[新年あけましておめでとうございます 穏やかなお正月です。 今年の干支パズルはこんな感じです。 かわいいいのしし [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>新年あけましておめでとうございます</p>
-<p>穏やかなお正月です。</p>
-<p>今年の干支パズルはこんな感じです。</p>
-<p>かわいいいのしし君たち</p>
-<p>幸せを運んで　まっしぐら！</p>
-<p>良い年になりますように。</p>
-<p>今年もよろしくお願いします。</p>
 ]]></content:encoded>
 			</item>
 	</channel>

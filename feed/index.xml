@@ -12,12 +12,24 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>檜原村で木工を行っています。</description>
-	<lastBuildDate>Sat, 13 Jan 2024 14:12:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Jan 2025 21:51:50 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.23</generator>
 	<item>
+		<title>新作　あれこれ　2024</title>
+		<link>./../2025/01/19/sinsakuarekore2024/index.html</link>
+		<pubDate>Sun, 19 Jan 2025 09:38:54 +0000</pubDate>
+		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=378</guid>
+		<description><![CDATA[2024年はいろいろな出会いがあり、新しい作品が生まれました。ろくろを使った花びんたち、きっかけはリクエストで [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>2024年はいろいろな出会いがあり、新しい作品が生まれました。ろくろを使った花びんたち、きっかけはリクエストでしたが、その後長野県上松の技術専門学校へ技術講習に参加することができました。また、保育園の木育事業のお手伝いでワークショップをしたり、クリスマスプレゼントを作ったりしました。様々な出会いに感謝です。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>2024年　辰年　登れ龍</title>
 		<link>./../2024/01/13/202401-tatudosi-noboreryuu/index.html</link>
 		<pubDate>Sat, 13 Jan 2024 14:12:59 +0000</pubDate>
@@ -157,19 +169,6 @@
 		<description><![CDATA[9月28日久しぶりにスティッチマルシェに出店しました。新製品は檜原の木をそのまんま使ったジャンボパズル。残念な [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>9月28日久しぶりにスティッチマルシェに出店しました。新製品は檜原の木をそのまんま使ったジャンボパズル。残念ながら売れませんでしたが…（笑）</p>
 <p>そして今日10月14日台風19号の去った檜原へ。いつも見慣れた川は様変わり、カフェオレ色の濁流でした…</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>檜原　春！</title>
-		<link>./../2019/04/15/hinoharaharu/index.html</link>
-		<pubDate>Sun, 14 Apr 2019 19:17:00 +0000</pubDate>
-		<dc:creator><![CDATA[koubou_usr]]></dc:creator>
-				<category><![CDATA[未分類]]></category>
-
-		<guid isPermaLink="false">./../index.html?p=320</guid>
-		<description><![CDATA[ふくらんだ桜のつぼみに、雪が降るという珍しい春の景色が見られました。その後の、陽気で桜も、すみれも、次々花開い [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>ふくらんだ桜のつぼみに、雪が降るという珍しい春の景色が見られました。その後の、陽気で桜も、すみれも、次々花開いています。</p>
-<p>まんまる工房はこの春久しぶりにスティッチまるしぇに出店します。畑仕事と作品づくりに燃える日々です。</p>
 ]]></content:encoded>
 			</item>
 	</channel>
